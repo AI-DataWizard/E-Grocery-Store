@@ -44,7 +44,7 @@ section {
 }
 
 .heading {
-  background: url(/assets/frugalfare-heading3.jpg) no-repeat;
+  background: url("frugalfare-heading3") no-repeat;
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -308,7 +308,7 @@ section {
 .home {
   position: relative;
   padding-top: 14rem;
-  background: url(/assets/frugalfare-homeback.jpg) no-repeat;
+  background: url("frugalfare-homeback") no-repeat;
   background-position: center;
   background-size: cover;
 }
